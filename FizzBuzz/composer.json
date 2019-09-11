@@ -1,0 +1,17 @@
+{
+    "name": "sefa.unal/php-examples",
+    "require": {
+        "phpspec/phpspec": "^5.1"
+    },
+    "authors": [
+        {
+            "name": "kadirsefaunal",
+            "email": "kadirsefau@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
